@@ -5,8 +5,12 @@ MATLAB script and data plotter for calculating Hard and Soft Iron magnetic compe
 
 This script is intented to work with the [HMC5883L magnetometer](https://github.com/MatthewPatyk/HMC5883L-Arduino-I2C-library), however, the results from this script **can easily be adapted** to work with other magnetometers or implementations.
 
-### Prerequisites
+## Prerequisites
 -  MATLAB
+
+## Results:
+
+![Before](https://raw.githubusercontent.com/MatthewPatyk/MATLAB-Magnetometer-Hard-and-Soft-Iron-Compensation-Algorithm/master/Results/Result.png)
  
 ## Getting Started
 If you just want to see the results of the algorithm, there are sample measurements in the file `myData`. Just run `main.m` script in MATLAB and change `fileName` variable to see another result.
