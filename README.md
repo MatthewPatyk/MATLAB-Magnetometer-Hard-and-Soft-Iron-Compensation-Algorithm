@@ -8,10 +8,8 @@ This script is intented to work with the [HMC5883L magnetometer](https://github.
 ## Prerequisites
 -  MATLAB
 
-## Results:
-
+## Results
 ![Before](https://raw.githubusercontent.com/MatthewPatyk/MATLAB-Magnetometer-Hard-and-Soft-Iron-Compensation-Algorithm/master/Results/Result.png)
- 
 ## Getting Started
 If you just want to see the results of the algorithm, there are sample measurements in the file `myData`. Just run `main.m` script in MATLAB and change `fileName` variable to see another result.
 
